@@ -1,0 +1,33 @@
+a{
+	color:green;
+	font-size: 30px;
+}
+
+
+#a123a{
+	color:red;
+}
+
+.human2{
+	color:#4C8BF5;
+}
+
+.animal1{
+	color:#FFCE45;
+	background-color:#747474;
+	border:3px solid #323232;
+}
+
+.dom{
+	color:purple;
+}
+
+div:hover{
+	border:10px solid #4C8BF5;
+}
+
+body{
+	background-image:url(a/1.jpg);
+}
+
+	
